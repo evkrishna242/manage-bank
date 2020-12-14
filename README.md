@@ -51,3 +51,6 @@ INSERT INTO transaction(transaction_number,acnumber,custid,transaction_date,tran
 INSERT INTO transaction(transaction_number,acnumber,custid,transaction_date,transaction_description,transaction_amount,transaction_type) VALUES ('100000000013','500005','100005','2019-12-11 12:00:00','Transaction','100.00','Dr');
 INSERT INTO transaction(transaction_number,acnumber,custid,transaction_date,transaction_description,transaction_amount,transaction_type) VALUES ('100000000014','500005','100005','2019-12-11 12:00:00','Transaction','100.00','Cr');
 INSERT INTO transaction(transaction_number,acnumber,custid,transaction_date,transaction_description,transaction_amount,transaction_type) VALUES ('100000000015','500005','100005','2019-12-11 12:00:00','Transaction','100.00','Dr');
+
+
+Import the postman collection to postman to test the APIs.
