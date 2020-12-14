@@ -1,0 +1,4 @@
+com\bankdemo\unit\BankEmployeeControllerTest.class
+com\bankdemo\integration\CustomerControllerTest.class
+com\bankdemo\ApplicationTest.class
+com\bankdemo\unit\CustomerControllerTest.class
